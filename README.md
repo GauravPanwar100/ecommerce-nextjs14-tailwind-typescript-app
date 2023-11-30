@@ -1,3 +1,5 @@
+## next js 14, tailwind, typescript, full cart working functionality, add/remove/empty items from cart, increase/decrease cart item quantity full working app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
